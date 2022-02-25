@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Matthew Pool, author of that elaborate work, Sinopsis criticorum His late sayings a little before his death, concerning the most material pointes of the Popish party; charged against the Protestants, vvherein the desperate tenets of Popish Jesuitical principles are detected and sollidly censured. For the settlement of all real professors, and practical opposers of those demnable delusions, in few words to the vvise. He dyed the 12th. of this instant stilo novo, at Amstersdam</title>
+            <author>Poole, Matthew, 1624-1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55384</idno>
+            <idno type="STC">Wing P2839</idno>
+            <idno type="STC">ESTC R224111</idno>
+            <idno type="EEBO-CITATION">99834599</idno>
+            <idno type="PROQUEST">99834599</idno>
+            <idno type="VID">39101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55384)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39101)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1818:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Matthew Pool, author of that elaborate work, Sinopsis criticorum His late sayings a little before his death, concerning the most material pointes of the Popish party; charged against the Protestants, vvherein the desperate tenets of Popish Jesuitical principles are detected and sollidly censured. For the settlement of all real professors, and practical opposers of those demnable delusions, in few words to the vvise. He dyed the 12th. of this instant stilo novo, at Amstersdam</title>
+                  <author>Poole, Matthew, 1624-1679.</author>
+               </titleStmt>
+               <extent>1 sheet   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed at Edinburgh,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>Anno Dom. 1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:39101:1"/>
+            <head>Mr. MATTHEW POOL, Author of that Elaborate Work, Sinopſis Criticorum.</head>
+            <p>
+               <hi>His Late Sayings a little before his Death.</hi> Concerning the moſt Material Pointes of the <hi>Popiſh</hi> Party; Charged againſt the <hi>Proteſtants;</hi> VVherein the Deſperate Tenets of <hi>Popiſh</hi> Jeſuitical principles are <hi>Detected</hi> and Solidly Cenſured. For the ſettlement of all Real profeſſors, and practical Oppoſers of thoſe Damnable Deluſions, in few words to the VViſe.</p>
+            <p>He Dyed the 12th. of this Inſtant <hi>Stilo Novo,</hi> at <hi>Amſterdam:</hi>
+            </p>
+            <p n="1">1 THe Felicity of <hi>Proteſtant Profeſſors,</hi> is, that they are not only Permitted, but ex<g ref="char:EOLhyphen"/>horted by their Miniſters, not to take Matters of Salvation upon truſt, but to ſearch the Scriptures concerning Truths delivered,</p>
+            <p n="2">2. Whilſt unhappy <hi>Papiſts</hi> are obliged to their Implicit Faith to follow their blind Guides, and muſt believe all they ſay; it's a plain ſign that their Gold is Adulterate becauſe they dare not ſuffer it to come to the Touch-Stone.</p>
+            <p n="3">3. The <hi>Romiſh</hi> Churches Infallibility is, that one Neck is their ſtrongeſt hold; all the reſt are but the Payring of their Nails, and cutting the Hair, which will quickly grow again; but if this fails all falls; Wound them here and it goes to their heart.</p>
+            <p n="4">4. Chriſt's Prayer for the Perſeverance of Faith, makes him infallible for whom Chriſt prays, then all Elect and Perſevering Believers are Infallible; the Con<g ref="char:EOLhyphen"/>e quence thus appears from <hi>John 17. I Pray not for theſe alone, but for them alſo which ſhall believe on me through their word.</hi>
+            </p>
+            <p n="5">5. And there is not one perſevering Chriſtian in the World, but owes his perſeverance to the Prayer, Care, and Interceſſion of Chriſt: Hence they are ſaid to be preſerved in Chriſt Jeſus, <hi>Jude</hi> 1.7.</p>
+            <p n="6">6. The Infallibility of <hi>Popes</hi> and Counſels hath no Foundation in the Sacred Writ.</p>
+            <p n="7">7. Every Champion of God's Truth is a Pillar of the Truth, but not Infallible.</p>
+            <p n="8">8. Let me ſee that <hi>Papiſt</hi> that will give it under his Hand that every one with whom the Spirit abides as a Comforter, is Infallible.</p>
+            <p n="9">9. The Church of <hi>Rome</hi> ſtands upon four pillars.</p>
+            <list>
+               <item>1. Authority of Scriptures.</item>
+               <item>2. Tradition of Fathers.</item>
+               <item>3. Infallibility of Councils.</item>
+               <item>4. And the <hi>POPE.</hi>
+               </item>
+            </list>
+            <p>Which Abſurdity the <hi>Jeſuits</hi> thus Heal: That it is no more Abſurd that Scripture ſhould lean upon the Churches Authority, and the Church on Authority of Scripture, than that Saint <hi>John</hi> the Baptiſt ſhould give Teſtimony to Chriſt, and Chriſt to him again: or that the Old Teſtament ſhould be confirmed by the New, and the New Teſtament by the Old.</p>
+            <p n="10">10. But the four before mentioned, are Reduct to Two.</p>
+            <list>
+               <item>1. To Scripture.</item>
+               <item>2. To the <hi>POPE.</hi>
+               </item>
+            </list>
+            <p>Which muſt prove one another.</p>
+            <list>
+               <item>1. There is no ſolid and ſufficient ground for me to believe the Scriptures, but the Teſtimony of the <hi>Pope,</hi> ſay the <hi>Papists.</hi>
+               </item>
+               <item>2. There is no ſolide and ſufficient ground for me to believe the Authority and Infallibility of the <hi>Pope</hi> but the Teſtimony of the Scriptures.</item>
+            </list>
+            <p n="11">11. By all which it is clear there is no ſolid founda<g ref="char:EOLhyphen"/>tion for a <hi>Papiſt's</hi> Faith, nor Proof of the <hi>Popes</hi> Infal<g ref="char:EOLhyphen"/>libility, which they ſo pretend to.</p>
+            <p n="12">12. Hence Note, that thoſe that contemn and for<g ref="char:EOLhyphen"/>ſake faithful Paſtors, are eaſily betrayed into the hands of <hi>Romiſh</hi> prieſts; Hence it concerns all Proteſtants, with Fear and Reverence, to behold the juſt judgement, of God upon Unſettled and Unſtable Chriſtians; and ſuch as are given to Change.</p>
+            <p n="13">13. And as we have many woful Inſtances of poor deluded Souls, that having wandred from party to par<g ref="char:EOLhyphen"/>ty, from opinion to opinion, have at laſt been ſwal<g ref="char:EOLhyphen"/>lowed up, ſome in the Gulph of Downright <hi>Atheiſm;</hi> and others whom the wantonneſs of Opinion hath be<g ref="char:EOLhyphen"/>trayed to <hi>Popiſh</hi> Impoſtures.</p>
+            <p n="14">14. The Supream and truly Infallible Judge of all Controverſies, Is God and Chriſt, who Appropriates it to himſelf to be the only Law-giver, <hi>James</hi> 4.12. This Judge is Lord over all, both in the Church and in the Conſcience, which are all Subordinate to him.</p>
+            <p n="15">15. Supream and Infallible Judge upon Earth we know none, at leaſt the <hi>Pope</hi> and Council, and Church of <hi>Rome</hi> is none.</p>
+            <p n="16">16. The Holy Scriptures of the Old and New Teſ<g ref="char:EOLhyphen"/>tament are the Infallilble Rule, and Ground, &amp; Touch<g ref="char:EOLhyphen"/>ſtone of Faith, from which all Controverſies of Faith are to be decided and judged.</p>
+            <p n="17">17. In a VVord, Tradition was not appointed by Chriſt as a part of that Ground upon which we were to Build our Rule, by which we were to try particular Doctrines and Articles of Faith.</p>
+            <p n="18">18. The Scripture is the Object, the only Rule and Standard of Fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th, by which all Controverſies are to be Decided and judged: Tradition is the Vehicle to convey this Rule to us and our Times; Reaſon is the Inſtrument by which I Apprehend or Diſcern this Rule The Spirit of God is the Eye ſalve that Anoints mine Eye, and enables it to ſee this Rule. The Church is the Interpreter (though not Infallible) the Witneſs, the Guardian of this Rule, and the Applyer of the general Rules of Scripture to particular Caſes, and times, and Circumſtances.</p>
+            <p n="19">19. To me this is a Rule; That to which God pro<g ref="char:EOLhyphen"/>miſeth or Annexeth Salvation, is ſurely ſufficient for Salvation.</p>
+            <p n="20">20. I care not one Straw for all the <hi>Roman</hi> Thun<g ref="char:EOLhyphen"/>der-Claps of Damnation, where I have one promiſe</p>
+            <p n="21">21. In a Word, The Fundamentals or Subſtantials of Religion do Apparently lye in Two Things, the Law and the Goſpel.</p>
+            <p n="22">22. The Seripture tells me that Love is the fulfill<g ref="char:EOLhyphen"/>ing of the Law, <hi>Rom.</hi> 13.10.</p>
+            <p n="23">23. It tells me alſo, That Faith in Chriſt is the ful<g ref="char:EOLhyphen"/>filling of the Goſpel, <hi>John</hi> 14.1. and 20.31.</p>
+            <p n="24">24. The Scripture ſufficiently Informs us of Funda<g ref="char:EOLhyphen"/>mentals.</p>
+            <p n="25">25. But the Church of <hi>Rome</hi> you muſt Note, hath another Rare Notion of Fundamentals; the like is not to be found in Scripture or any Ancient Author.</p>
+            <p n="26">26. That is a Fundamental Truth which the Church Decrees though never ſo Inconſiderable.</p>
+            <p n="27">27. But we muſt have moſt Solide Proofs, That the <hi>Pope</hi> or Council have ſuch Dominion over our Faith; That Fundamentals are all at their mercy.</p>
+            <p n="28">28. And there is nothing which more Eſſentiallie o<g ref="char:EOLhyphen"/>verthrows the <hi>Popiſh</hi> conceit of Fundamentals, than the Conſideration of the Pillar upon which they Build it, which is the Churches Infallible Authority.</p>
+            <p n="29">29. The Infallibility of Councils being but a Chi<g ref="char:EOLhyphen"/>merical imagination, I muſt needs Conclude, That the foundation being fallen, the Superſtructure needs no ſtrength of Argument to pull it Down.</p>
+            <p n="30">30. Concerning the coppies and tranſlations of Scrip<g ref="char:EOLhyphen"/>ture, they are a ſure and certain Rule, becauſe they do ſufficiently Evidence themſelves to be the Word of God, and the ſame for Subſtance with the Original.</p>
+            <p n="31">31. The Divinity of Scripture in theſe, as well as the Originals, for the Majeſty of <hi>Style,</hi> the Sublimity of their Doctrines, the Purity of the Matter, and the Excellency of the Deſign.</p>
+            <p n="32">32. To theſe God hath given ſignal teſtimonies by the converſion of thouſands, by Frequent and Illuſtri<g ref="char:EOLhyphen"/>ous Miracles, by the Co-operation of his Spirit with them in the Hearts of his People.</p>
+            <p n="33">33. Value precious time while time doth laſt, and not when it is utterly loſt.</p>
+            <p n="34">34. Wo to thoſe ſouls! whoſe Eyes nothing but Death, and Judgement will open.</p>
+            <p n="35">35. If the Reward of Religion would be preſentlie in hand, who would not be Religious?</p>
+            <p n="36">36. God will have no Peace with that Soul that is at Peace with Sin.</p>
+            <p n="37">37. Let mens opinions be what they will, <hi>Without Holineſs no man ſhall ſee God.</hi>
+            </p>
+            <p n="38">38. The way of Carnal Liberty, is not the way that leads to Eternity.</p>
+            <p n="39">39. Every Morning Remember that thy Walking with God, is the Buſineſs of that Day.</p>
+            <p n="40">40. Conſider a Dram of Grace, is better than a Ta<g ref="char:EOLhyphen"/>lent of Wealth.</p>
+            <p n="41">41. He that hath but little in the World, muſt keep the ſhorter table.</p>
+            <p n="42">42. None ever loſt by Jeſus Chriſt, though they loſe for him they ſhall never loſe by him.</p>
+            <p n="43">43. Rejoyce you whoſe Riches are Reproaches for Chriſt, his Croſs your Crown, the Shame of him your Glory.</p>
+            <p n="44">44. You muſt Enter in at the Door of Heaven, by thy Key of Saving Knowledge.</p>
+            <p n="45">45. Lay up continually in Heaven, further your Account, add to the heap of encreaſing abundantly.</p>
+            <p n="46">46. Whatever thou doeſt for God, God keeps a true Account, believe it, and Plow and Sow in hope.</p>
+            <p n="47">47. A good Soul is like the Compaſs in the Needle, reſtleſs till it be turned towards the pole.</p>
+            <p n="48">48. My Soul! thou haſt made thine Everlaſting choice, though the World anſwer not thy Expectation<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, is it not enough?</p>
+            <p n="49">49. Hold on yet a little while in faith and patience, and ſelf-denyal, and you are ſure of the Crown.</p>
+            <p n="50">50. If to be Religious will make you Vile, reſolve that you will yet be more Vile.</p>
+            <p n="51">51. He that can uſe aright the proſpective of Faith, to ſee approaching Judgement, will eaſily avoid the VVorlds Vanity, and embrace the Crown of Everlaſt<g ref="char:EOLhyphen"/>ing Glory.</p>
+            <p n="52">52. Have you made Heaven ſure? If that be done you are prepared for the worſt that can come.</p>
+            <p n="53">53. Have you paſt the Straits of the new Birth, do you bear upon you the Marks of the Lord Jeſus.</p>
+            <p n="54">54. Can you prove from the Book of God, that you are paſt a meer perſwaſion.</p>
+            <p n="55">55. Is not this your reſt? Where is your Treaſure, and your Heart?</p>
+            <p n="56">56. Do you long for the purchaſe of your Saviour, the Fruit of your prayers, the harveſt of your Labours, and the end of your Faith?</p>
+            <p n="57">57. Catch at Opportunity; away with Lazy Pray<g ref="char:EOLhyphen"/>ers, Cold and Heartleſs profeſſions, and a Lifeleſs Reli<g ref="char:EOLhyphen"/>ligion.</p>
+            <p n="58">58. Conſider, now is your time, what you do you muſt do quickly.</p>
+            <p n="59">59. God's Patience waits, Chriſt knocks, the Spirit of God ſtrives, and death waits.</p>
+            <p n="60">60. Take heed of a Miſtake in the Two Great Goſ<g ref="char:EOLhyphen"/>pel Graces.</p>
+            <p>Firſt, <hi>of Faith.</hi>
+            </p>
+            <p>Secondly, <hi>of Repentance.</hi>
+            </p>
+            <p>And know, VVhere one goes to Hell by Deſpair, hundreds goes by Preſumption.</p>
+            <p n="61">61. Let your firſt Morning Thoughts, and your laſt Evening Thoughts, be what ſhall become of you to all Eternity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Re-printed at <hi>Edinburgh,</hi> Anno <hi>Dom.</hi> 1679.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
